@@ -1,0 +1,2 @@
+# tensorflow-practice
+気が向いたらTensorFlowで遊んでみるリポジトリ
